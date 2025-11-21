@@ -11,3 +11,5 @@ Created with ❤️ by **Ph1on** 🌸
 
 > [!NOTE]  
 > Join KH1EV Community : https://discord.gg/JfHtAeDBwz
+
+<img src="./public/KHI1EV_BANNER_HALLOWEN_THEME_1.png" width=200 alt="KH1EV Community">
