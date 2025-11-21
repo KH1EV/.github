@@ -7,7 +7,7 @@ This organization hosts projects, experiments, and learning resources created by
 
 Our focus is on building clean, efficient, and reliable software while supporting developers who want to learn and improve their skills in both frontend, backend, cloud deployment, and real-world development workflows.
 
-Created with ❤️ by **Nick Aidil** 🌸
+Created with ❤️ by **Ph1on** 🌸
 
 > [!NOTE]  
-> KH1EV Community is now open for collaboration and development.
+> Join KH1EV Community : https://discord.gg/JfHtAeDBwz
