@@ -1,6 +1,6 @@
 # Welcome To KH1EV Community Github Organization
 
-<img align="right" src="https://i.postimg.cc/9QDrvx90/soundrelay.png" width=200 alt="KH1EV Community">
+<img align="right" src="./public/KH1EV_LOGO_HALLOWEEN.png" width=200 alt="KH1EV Community">
 
 KH1EV Community is a development-focused group dedicated to full-stack development, website development, and modern application engineering.  
 This organization hosts projects, experiments, and learning resources created by and for the KH1EV Community developers.
